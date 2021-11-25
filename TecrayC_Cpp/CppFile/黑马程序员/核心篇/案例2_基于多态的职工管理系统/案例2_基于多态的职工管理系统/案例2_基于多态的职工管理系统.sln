@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "案例2_基于多态的职工管理系统", "案例2_基于多态的职工管理系统\案例2_基于多态的职工管理系统.vcxproj", "{EB81D0C2-8335-4890-947D-D06EA9A7B8E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB81D0C2-8335-4890-947D-D06EA9A7B8E8}.Debug|x64.ActiveCfg = Debug|x64
+		{EB81D0C2-8335-4890-947D-D06EA9A7B8E8}.Debug|x64.Build.0 = Debug|x64
+		{EB81D0C2-8335-4890-947D-D06EA9A7B8E8}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB81D0C2-8335-4890-947D-D06EA9A7B8E8}.Debug|x86.Build.0 = Debug|Win32
+		{EB81D0C2-8335-4890-947D-D06EA9A7B8E8}.Release|x64.ActiveCfg = Release|x64
+		{EB81D0C2-8335-4890-947D-D06EA9A7B8E8}.Release|x64.Build.0 = Release|x64
+		{EB81D0C2-8335-4890-947D-D06EA9A7B8E8}.Release|x86.ActiveCfg = Release|Win32
+		{EB81D0C2-8335-4890-947D-D06EA9A7B8E8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E14E369D-9DCF-42D6-BD99-3053A0C9D4C2}
+	EndGlobalSection
+EndGlobal
